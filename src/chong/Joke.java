@@ -30,7 +30,7 @@ public class Joke {
 				
 				System.out.println();
 				
-				//写入TXT文件
+				//写入TXT文件 哈哈
 				FileWriter fw = null;
 				try {
 				//如果文件存在，则追加内容；如果文件不存在，则创建文件
