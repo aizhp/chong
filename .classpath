@@ -2,10 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Java/HttpTool_5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/HttpTool_5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Java/jsoup-1.10.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Java/jsoup-1.10.2-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Java/jsoup-1.10.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gcyyn/Desktop/demo/JAR/jsoup/jsoup-1.10.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

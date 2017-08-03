@@ -15,7 +15,7 @@ public class chong {
 				//Accept-Encoding:gzip, deflate, sdch
 				.header("Accept-Language","zh-CN,zh;q=0.8")//Accept-Language:zh-CN,zh;q=0.8
 				.header("Connection","keep-alive")//Connection:keep-alive	 		 
-				.header("Cookie","JSESSIONID=1f4nk6u1snrod1e6lcurm6nrur")
+				//.header("Cookie","JSESSIONID=1f4nk6u1snrod1e6lcurm6nrur")
 				//Cookie:JSESSIONID=1f4nk6u1snrod1e6lcurm6nrur
 				.header("Host","qiye.youboy.com")//Host:qiye.youboy.com
 				.header("Referer","http://qiye.youboy.com/cd/")

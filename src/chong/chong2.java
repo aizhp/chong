@@ -11,11 +11,11 @@ import org.jsoup.select.Elements;
 public class chong2 {
 	public static void main (String[] args) throws IOException {  
         
-		for(int i=2;i<=3;i++){
+		for(int i=1;i<=3;i++){
         Document doc=Jsoup.connect("http://www.haha365.com/zz_joke/index_"+i+".htm").get();  
         Elements es = doc.select("div.left");
         Elements es1= es.select("h3>*");
-        for(Element ht:es1){
+        for(Element ht:es){
         	String htt=ht.attr("abs:href");
         	Document htm = Jsoup.connect(htt).get();
         	
