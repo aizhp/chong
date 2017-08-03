@@ -30,10 +30,11 @@ public class Joke {
 				
 				System.out.println();
 				
-				//写入TXT文件 哈哈
+				//鍐欏叆TXT鏂囦欢
 				FileWriter fw = null;
 				try {
-				//如果文件存在，则追加内容；如果文件不存在，则创建文件
+
+					//濡傛灉鏂囦欢瀛樺湪锛屽垯杩藉姞鍐呭锛涘鏋滄枃浠朵笉瀛樺湪锛屽垯鍒涘缓鏂囦欢
 				File f=new File("G:\\1-1000ye.txt");
 				fw = new FileWriter(f, true);
 				} catch (IOException e) {
